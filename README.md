@@ -21,3 +21,5 @@
   * [JS Underhood](https://twitter.com/jsunderhood) Фронтенд-разработчики
 * Животные
   * [Cat Underhood](https://twitter.com/catunderhood) Коллективный аккаунт любителей кошек
+* Путешествие
+  * [Abroad Underhood](https://twitter.com/abroadunderhood) Коллективный аккаунт, где люди рассказывают о жизни за границей и опыте переезда туда
