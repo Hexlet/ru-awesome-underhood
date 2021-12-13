@@ -19,6 +19,7 @@
   * [IT Underhood](https://twitter.com/itunderhood) Про IT и все с ним связанное
   * [Anti IT Underhood](https://twitter.com/AntiITUnderhood) Технические истории и спорные мнения о IT
   * [JS Underhood](https://twitter.com/jsunderhood) Фронтенд-разработчики
+  * [Mobile Underhood](https://twitter.com/mobileunderhood) Мобильные разработчики
 * Животные
   * [Cat Underhood](https://twitter.com/catunderhood) Коллективный аккаунт любителей кошек
 * Путешествие
