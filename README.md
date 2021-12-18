@@ -24,3 +24,4 @@
   * [Cat Underhood](https://twitter.com/catunderhood) Коллективный аккаунт любителей кошек
 * Путешествие
   * [Abroad Underhood](https://twitter.com/abroadunderhood) Коллективный аккаунт, где люди рассказывают о жизни за границей и опыте переезда туда
+  * [Anti Abroad Underhood](https://twitter.com/antiabroadunde1) Коллективный аккаунт, где люди рассказывают о минусах жизни за границей
