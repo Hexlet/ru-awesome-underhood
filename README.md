@@ -4,6 +4,8 @@
 Данный репозиторий создан и поддерживается командой и сообществом образовательного проекта _Хекслет_. [Подробнее о проекте](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=awesome-underhood).
 ##
 
+See most active contributers on [hexlet-friends](https://friends.hexlet.io/).
+
 ### Список русскоязычных коллективных аккаунтов
 
 Аккаунты организованы по тематикам
