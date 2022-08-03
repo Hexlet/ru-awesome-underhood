@@ -17,6 +17,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 ### Аккаунты
 
 * IT
+  * [CSS Underhood](https://twitter.com/cssunderhood) CSS-сообщество и причастные к нему
   * [Junior Underhood](https://twitter.com/jnrunderhood) Начинающие разработчики
   * [IT Underhood](https://twitter.com/itunderhood) Про IT и все с ним связанное
   * [Anti IT Underhood](https://twitter.com/AntiITUnderhood) Технические истории и спорные мнения о IT
