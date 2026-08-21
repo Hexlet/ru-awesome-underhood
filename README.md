@@ -31,15 +31,16 @@
 
 Мы принимаем pull-request'ы.
 
+* Группируйте аккаунты по тематике, внутри темы — по алфавиту.
+* После ссылки одной строкой поясняйте, кто в аккаунте пишет.
+
 ## Аккаунты
 
 * IT
   * [CSS Underhood](https://twitter.com/cssunderhood) CSS-сообщество и причастные к нему
   * [Junior Underhood](https://twitter.com/jnrunderhood) Начинающие разработчики
   * [IT Underhood](https://twitter.com/itunderhood) Про IT и все с ним связанное
-  * [Anti IT Underhood](https://twitter.com/AntiITUnderhood) Технические истории и спорные мнения о IT
   * [JS Underhood](https://twitter.com/jsunderhood) Фронтенд-разработчики
-  * [Mobile Underhood](https://twitter.com/mobileunderhood) Мобильные разработчики
 * Животные
   * [Cat Underhood](https://twitter.com/catunderhood) Коллективный аккаунт любителей кошек
 * Путешествие
